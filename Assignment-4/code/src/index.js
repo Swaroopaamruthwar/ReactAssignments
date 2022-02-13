@@ -5,9 +5,6 @@ import Postview from './Postview';
 import reportWebVitals from './reportWebVitals';
 
 
-
-
-
 ReactDOM.render(
   <React.StrictMode>
     <Postview />
